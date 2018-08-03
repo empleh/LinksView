@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/purple-green.css";
+
+body {
+  background: url("./assets/background.png");
+  background-repeat: repeat;
+  background-color: #093311;
+  background-blend-mode: screen;
+}
